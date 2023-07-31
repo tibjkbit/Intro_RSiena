@@ -41,7 +41,8 @@ RSIENA实现了随机行为者导向模型(Stochastic Actor Oriented Models,SAOM
 
 ## 许可协议
 
-本文档使用Creative Commons署名-非商业性使用-相同方式共享4.0国际许可协议。
+除特别注明外,本仓库中的文档使用 CC0 1.0 通用协议许可。
+协议全文请见 LICENSE 文件。
 
 ## 参与指南
 
@@ -52,3 +53,6 @@ RSIENA实现了随机行为者导向模型(Stochastic Actor Oriented Models,SAOM
 1. 使用 Markdown 格式
 2. 注明内容来源  
 3. 保持格式和结构一致
+
+交流方式:   
+* QQ群聊: 417131756
