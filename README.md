@@ -30,6 +30,14 @@ RSIENA实现了随机行为者导向模型(Stochastic Actor Oriented Models,SAOM
 - 模型评估
   - 拟合优度
   - 多重共线性
+  - 
+## 示例
+
+- `example1.ipynb`:一步步演示使用 RSIENA 分析网络与行为协同演化的示例,可以帮助读者快速上手。
+- `data1` 目录中包含了example1.ipynb使用 RSIENA 的数据及代码脚本，方便读者获取数据，原数据在“https://www.stats.ox.ac.uk/~snijders/siena/
+”中也能获取。
+
+示例基于 RSienaTest 包实现,需要先安装该包。
 
 ## 许可协议
 
