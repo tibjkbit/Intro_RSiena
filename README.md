@@ -30,7 +30,6 @@ RSIENA实现了随机行为者导向模型(Stochastic Actor Oriented Models,SAOM
 - 模型评估
   - 拟合优度
   - 多重共线性
-  - 
 ## 示例
 
 - `example1.ipynb`:一步步演示使用 RSIENA 分析网络与行为协同演化的示例,可以帮助读者快速上手。
